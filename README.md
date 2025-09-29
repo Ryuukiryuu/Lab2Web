@@ -1,14 +1,14 @@
 <img width="937" height="660" alt="Screenshot 2025-09-29 132459" src="https://github.com/user-attachments/assets/55af0005-9df8-4285-bcbd-b1b6dd7a8f60" />
 
+**Tampilan awal**
 
-
-#Tampilan awal#
--Di tahap ini, HTML sudah dibuat tapi belum ada internal CSS.
--Teks masih pakai default style browser:
--Judul <h1> tampil besar dan tebal hitam.
--Link <a> berwarna biru standar.
--Paragraf <p> berwarna hitam, font default Times New Roman.
--Artinya ini masih tampilan dasar HTML tanpa styling tambahan
+Di tahap ini, HTML sudah dibuat tapi belum ada internal CSS.<h3><h3 style="font-size:14px; font-weight:normal; color:#0F189F;">
+</h3>
+Teks masih pakai default style browser:<h3>
+Judul tampil besar dan tebal hitam.<h3>
+Link <a> berwarna biru standar.<h3>
+Paragraf <p> berwarna hitam, font default Times New Roman.<h3>
+Artinya ini masih tampilan dasar HTML tanpa styling tambahan<h3>
 
 
 
@@ -70,15 +70,15 @@ Gambar 4
 
 
 #Setelah Styling (Dengan CSS)#
--Tampilan halaman web yang sudah diberi styling CSS dengan perubahan:
--Perubahan Visual:
--Background biru tosca/teal menutupi sebagian besar halaman
--Teks "Hello World" sekarang berwarna putih dan lebih kontras
--Paragraf sekarang berwarna putih dan mudah dibaca dengan latar biru
--Button "Informasi selengkapnya" berubah menjadi:
--Background merah
--Teks putih
--Bentuk kotak dengan padding yang jelas
+Tampilan halaman web yang sudah diberi styling CSS dengan perubahan:###
+-Perubahan Visual:-
+-Background biru to-sca/teal menutupi sebagian besar halaman-
+-Teks "Hello World" sekarang berwarna putih dan lebih kontras-
+-Paragraf sekarang berwarna putih dan mudah dibaca dengan latar biru-
+-Button "Informasi selengkapnya" berubah menjadi:-
+-Background merah-
+-Teks putih-
+-Bentuk kotak dengan padding yang jelas-
 
 #Teknik CSS yang Digunakan:#
 -Kemungkinan besar menggunakan kombinasi:
